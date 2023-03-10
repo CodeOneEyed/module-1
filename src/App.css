@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.completed {
+  background-color: green;
 }
 
 .App-logo {
